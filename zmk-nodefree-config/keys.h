@@ -125,7 +125,7 @@
 #define NUM_3 (NUMBER_3) // WARNING: DEPRECATED (DO NOT USE)
 
 /* Keyboard # (Hash/Number) */
-#define HASH (BACKSLASH)
+#define HASH (BSLH)    //+
 #define POUND (HASH)
 
 /* Keyboard 4 and $ (Dollar) */
