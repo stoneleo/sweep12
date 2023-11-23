@@ -125,7 +125,7 @@
 #define NUM_3 (NUMBER_3) // WARNING: DEPRECATED (DO NOT USE)
 
 /* Keyboard # (Hash/Number) */
-#define HASH (LS(ZMK_HID_USAGE(HID_USAGE_KEY, HID_USAGE_KEY_KEYBOARD_3_AND_HASH)))
+#define HASH (BACKSLASH)
 #define POUND (HASH)
 
 /* Keyboard 4 and $ (Dollar) */
