@@ -116,7 +116,7 @@
 
 /* Keyboard @ (At sign) */
 #define AT_SIGN (LS(ZMK_HID_USAGE(HID_USAGE_KEY, HID_USAGE_KEY_KEYBOARD_2_AND_AT)))
-#define AT (AT_SIGN)
+#define AT (DQT)    //+
 #define ATSN (AT_SIGN) // WARNING: DEPRECATED (DO NOT USE)
 
 /* Keyboard 3 and # (Hash/Number) */
