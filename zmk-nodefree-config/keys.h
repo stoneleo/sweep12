@@ -21,6 +21,8 @@
 #define SYSTEM_WAKE_UP (ZMK_HID_USAGE(HID_USAGE_GD, HID_USAGE_GD_SYSTEM_WAKE_UP))
 #define SYS_WAKE (SYSTEM_WAKE_UP)
 
+/* Buchstaben */
+
 /* Keyboard a and A */
 #define A (ZMK_HID_USAGE(HID_USAGE_KEY, HID_USAGE_KEY_KEYBOARD_A))
 
@@ -98,6 +100,12 @@
 
 /* Keyboard z and Z */
 #define Z (ZMK_HID_USAGE(HID_USAGE_KEY, HID_USAGE_KEY_KEYBOARD_Y))
+
+
+
+
+
+
 
 /* Keyboard 1 and ! (Exclamation) */
 #define NUMBER_1 (ZMK_HID_USAGE(HID_USAGE_KEY, HID_USAGE_KEY_KEYBOARD_1_AND_EXCLAMATION))
