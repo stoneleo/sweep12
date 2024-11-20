@@ -1,0 +1,7 @@
+
+
+Zahlen:
+N1-N0
+
+Sonderzeichen:
+Ausrufezeichen - EXCL
